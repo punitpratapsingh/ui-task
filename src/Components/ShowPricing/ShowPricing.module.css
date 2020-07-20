@@ -1,0 +1,22 @@
+.showPricingContainer{
+    width: 100%;
+    background-color: #dadada;
+}
+
+.priceTable{
+    width: 30%;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.row p{
+    font-size: 1.5rem;
+    color: #7c7777;
+    padding: .3rem;
+}
